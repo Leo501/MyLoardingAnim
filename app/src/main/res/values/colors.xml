@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="red_100">#FFCDD2</color>
+    <color name="red_300">#E57373</color>
+    <color name="red_600">#D32F2F</color>
+    <color name="red_900">#B71C1C</color>
+    <color name="cyan_50">#E0F7FA</color>
+    <color name="cyan_100">#B2EBF2</color>
+    <color name="cyan_500">#00BCD4</color>
+    <color name="amber_50_nornal">#FFF8E1</color>
+    <color name="amber_50">#8fFFF8E1</color>
+    <color name="amber_100">#8fFFECB3</color>
+    <color name="amber_300">#8fFFD54F</color>
+    <color name="orchid_50">#8fffe6ff</color>
+    <color name="orchid_500">#8fff00ff</color>
+    <color name="white">#ffffffff</color>
+    <color name="black">#000000</color>
+</resources>
